@@ -1,7 +1,0 @@
-...El proyecto "BicicleteriaFinal", funciona con una interfaz gráfica y permite leer, agregar, 
-modificar y borrar (vender) bicicletas y actualizar las ganancias y ventas de las bicicleterias 
-mediante la comunicación con la base de datos "FinalBicicleteria_db".
-
-Intenté  organizar el proyecto con MVC pero a medida que avanzaba se me complicaba mantener un órden en 
-los métodos, funciones y clases usadas, espero que con más tiempo y práctica pueda mejorar en este aspecto. 
-Saludos!
